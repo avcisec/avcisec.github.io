@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: Blog Posts
 ---
 
-This is my first blog content!
